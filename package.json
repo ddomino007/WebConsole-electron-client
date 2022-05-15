@@ -1,5 +1,5 @@
 {
-  "name": "WebConsole Client",
+  "name": "WebConsoleClient",
   "appId": "webconsole-electron-client",
   "version": "0.0.0",
   "description": "Electron based wrapper for WebConsole's client webapp. Works on Windows/Linux/macOS",
