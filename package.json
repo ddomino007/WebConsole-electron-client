@@ -1,7 +1,7 @@
 {
-  "name": "WebConsoleClient",
+  "name": "WebConsole-Client",
   "appId": "webconsole-electron-client",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Electron based wrapper for WebConsole's client webapp. Works on Windows/Linux/macOS",
   "main": "main.js",
   "scripts": {
@@ -45,7 +45,7 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "WebConsole Client"
+            "name": "WebConsole-Client"
           }
         },
         {
@@ -61,7 +61,18 @@
         {
           "name": "@electron-forge/maker-rpm",
           "config": {}
+        },
+      "publishers": [
+        {
+          "name": "@electron-forge/publisher-github",
+          "config": {
+            "repository": {
+              "owner": "erikhofer",
+              "name": "electron-publish-example"
+            }
+          }
         }
+      ]
       ]
     }
   }
