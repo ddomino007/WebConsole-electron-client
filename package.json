@@ -1,0 +1,68 @@
+{
+  "name": "WebConsole Client",
+  "appId": "webconsole-electron-client",
+  "version": "0.0.0",
+  "description": "Electron based wrapper for WebConsole's client webapp. Works on Windows/Linux/macOS",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron-forge start",
+    "package": "electron-forge package",
+    "make": "electron-forge make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ddomino007/WebConsole-electron-client.git"
+  },
+  "keywords": [
+    "minecraft",
+    "admin",
+    "webconsole",
+    "wrapper"
+  ],
+  "author": "BenjiThatFoxGuy (ddomino007 on GitHub), WebConsole dev (mesacarlos on GitHub)",
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/ddomino007/WebConsole-electron-client/issues"
+  },
+  "homepage": "https://github.com/ddomino007/WebConsole-electron-client#readme",
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.0-beta.63",
+    "@electron-forge/maker-deb": "^6.0.0-beta.63",
+    "@electron-forge/maker-rpm": "^6.0.0-beta.63",
+    "@electron-forge/maker-squirrel": "^6.0.0-beta.63",
+    "@electron-forge/maker-zip": "^6.0.0-beta.63",
+    "electron": "^18.2.3"
+  },
+  "dependencies": {
+    "electron-squirrel-startup": "^1.0.0"
+  },
+  "config": {
+    "forge": {
+      "packagerConfig": {
+        "icon": "favicon.icns"
+      },
+      "makers": [
+        {
+          "name": "@electron-forge/maker-squirrel",
+          "config": {
+            "name": "WebConsole Client"
+          }
+        },
+        {
+          "name": "@electron-forge/maker-zip",
+          "platforms": [
+            "darwin"
+          ]
+        },
+        {
+          "name": "@electron-forge/maker-deb",
+          "config": {}
+        },
+        {
+          "name": "@electron-forge/maker-rpm",
+          "config": {}
+        }
+      ]
+    }
+  }
+}
