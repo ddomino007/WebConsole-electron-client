@@ -48,7 +48,7 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "WebConsole-Client"
+            "name": "WebConsole_Client"
           }
         },
         {
