@@ -13,11 +13,11 @@ app.whenReady().then(() => {
 app.on('window-all-closed', () => {
   if (process.platform !== 'darwin') app.quit()
 })
-app.whenReady().then(() => {
-  createWindow()
+//app.whenReady().then(() => {
+//  createWindow()
 
 
   app.on('activate', () => {
     if (BrowserWindow.getAllWindows().length === 0) createWindow()
   })
-})
+//})
