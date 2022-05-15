@@ -73,7 +73,7 @@
             "repository": {
               "owner": "ddomino007",
               "name": "WebConsole-electron-client",
-              "draft": true
+              "draft": false
             }
           }
         }
