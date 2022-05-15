@@ -62,7 +62,8 @@
           "name": "@electron-forge/maker-rpm",
           "config": {}
         },
-      "publishers": [
+      ]
+            "publishers": [
         {
           "name": "@electron-forge/publisher-github",
           "config": {
@@ -72,7 +73,6 @@
             }
           }
         }
-      ]
       ]
     }
   }
