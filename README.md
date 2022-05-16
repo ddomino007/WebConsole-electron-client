@@ -12,4 +12,4 @@ Electron based wrapper for WebConsole's client webapp. Works on macOS/Windows/Li
 ![Linux x64 formats](https://img.shields.io/badge/Linux_x64-.deb_.rpm_.nupkg-success)
 
 Download latest release from [the releases page](https://github.com/ddomino007/WebConsole-electron-client/releases/latest)
-![Screenshot Mac](screenshotmac.png)
+![Screenshot Mac 2](screenshotmac2.png)
