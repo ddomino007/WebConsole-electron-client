@@ -6,6 +6,7 @@ Electron based wrapper for [WebConsole](https://github.com/mesacarlos/WebConsole
 ![Build](https://github.com/ddomino007/WebConsole-electron-client/actions/workflows/build.yml/badge.svg)](https://github.com/ddomino007/WebConsole-electron-client/actions/workflows/build.yml) [![Release](https://github.com/ddomino007/WebConsole-electron-client/actions/workflows/publish.yml/badge.svg)](https://github.com/ddomino007/WebConsole-electron-client/actions/workflows/publish.yml)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/ddomino007/WebConsole-electron-client?logo=github)](https://github.com/ddomino007/WebConsole-electron-client/releases/latest)
 [![GitHub All Releases](https://img.shields.io/github/downloads/ddomino007/WebConsole-electron-client/total?color=informational&logo=github)](https://github.com/ddomino007/WebConsole-electron-client/releases/latest)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/ddomino007/WebConsole-electron-client?logo=nodedotjs)
 
 ![macOS Apple Silicon Native](https://img.shields.io/badge/Apple%20Silicon-native-success?logo=apple)
 ![macOS Intel 64-bit Native](https://img.shields.io/badge/Intel%2064--bit-yes-success?logo=apple)
