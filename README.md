@@ -4,7 +4,7 @@ Electron based wrapper for [WebConsole](https://github.com/mesacarlos/WebConsole
 
 [![Maintenance](https://img.shields.io/maintenance/no/2022?logo=github)](https://github.com/ddomino007/WebConsole-electron-client)
 [
-![Build](https://github.com/ddomino007/WebConsole-electron-client/actions/workflows/build.yml/badge.svg)](https://github.com/ddomino007/WebConsole-electron-client/actions/workflows/build.yml) [![Release](https://github.com/ddomino007/WebConsole-electron-client/actions/workflows/publish.yml/badge.svg)](https://github.com/ddomino007/WebConsole-electron-client/actions/workflows/publish.yml)
+![Build](https://img.shields.io/github/workflow/status/ddomino007/WebConsole-electron-client/Build?logo=github)](https://github.com/ddomino007/WebConsole-electron-client/actions/workflows/build.yml) [![Release](https://img.shields.io/github/workflow/status/ddomino007/WebConsole-electron-client/Release?logo=github)](https://github.com/ddomino007/WebConsole-electron-client/actions/workflows/publish.yml)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/ddomino007/WebConsole-electron-client?logo=github)](https://github.com/ddomino007/WebConsole-electron-client/releases/latest)
 [![GitHub All Releases](https://img.shields.io/github/downloads/ddomino007/WebConsole-electron-client/total?color=informational&logo=github)](https://github.com/ddomino007/WebConsole-electron-client/releases/latest)
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/ddomino007/WebConsole-electron-client?logo=nodedotjs)
