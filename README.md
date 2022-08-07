@@ -7,8 +7,8 @@ Electron based wrapper for [WebConsole](https://github.com/mesacarlos/WebConsole
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/ddomino007/WebConsole-electron-client)](https://github.com/ddomino007/WebConsole-electron-client/releases/latest)
 ![GitHub All Releases](https://img.shields.io/github/downloads/ddomino007/WebConsole-electron-client/total?label=total%20downloads)
 
-![macOS Apple Silicon Native](https://img.shields.io/badge/macOS-Apple%20Silicon-success)
-![macOS Intel 64-bit Native](https://img.shields.io/badge/macOS-Intel%2064--bit-success)
+![macOS Apple Silicon Native](https://img.shields.io/badge/Apple%20Silicon-native-success?logo=macos)
+![macOS Intel 64-bit Native](https://img.shields.io/badge/Intel-64--bit-success?logo=macos)
 ![Windows x64 Native](https://img.shields.io/badge/x64-yes-success?logo=windows)
 ![Linux x64 formats](https://img.shields.io/badge/Linux_x64-.deb_.rpm_.nupkg-success)
 
