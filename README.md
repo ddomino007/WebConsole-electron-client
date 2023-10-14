@@ -1,6 +1,6 @@
 # WebConsole-Client
 Electron based wrapper for [WebConsole](https://github.com/mesacarlos/WebConsole)'s [client webapp](https://mesacarlos.es/webconsole/client-v2.4/). Works on macOS/Windows/Linux
-
+[![Build/release](https://github.com/ddomino007/WebConsole-electron-client/actions/workflows/ci.yml/badge.svg)](https://github.com/ddomino007/WebConsole-electron-client/actions/workflows/ci.yml)
 [![Maintenance](https://img.shields.io/maintenance/yes/2023?logo=github)](https://github.com/ddomino007/WebConsole-electron-client)
 [![GitHub All Releases Downloads](https://img.shields.io/github/downloads/ddomino007/WebConsole-electron-client/total?color=informational&logo=github)](https://github.com/ddomino007/WebConsole-electron-client/releases/latest)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/ddomino007/WebConsole-electron-client?logo=github)](https://github.com/ddomino007/WebConsole-electron-client/releases/latest)
