@@ -1,4 +1,4 @@
-name: Build/release
+name: Test building of prereleases
 
 on:
     push:
