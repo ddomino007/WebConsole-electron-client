@@ -1,8 +1,7 @@
 # WebConsole-Client
-## Please note; This project is on pause. I have many more projects that I need to get back into. I'll hopefully update this to the newer version sooner or later.
 Electron based wrapper for [WebConsole](https://github.com/mesacarlos/WebConsole)'s [client webapp](https://mesacarlos.es/webconsole/client-v2.4/). Works on macOS/Windows/Linux
 
-[![Maintenance](https://img.shields.io/maintenance/no/2022?logo=github)](https://github.com/ddomino007/WebConsole-electron-client)
+[![Maintenance](https://img.shields.io/maintenance/yes/2023?logo=github)](https://github.com/ddomino007/WebConsole-electron-client)
 [![GitHub All Releases Downloads](https://img.shields.io/github/downloads/ddomino007/WebConsole-electron-client/total?color=informational&logo=github)](https://github.com/ddomino007/WebConsole-electron-client/releases/latest)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/ddomino007/WebConsole-electron-client?logo=github)](https://github.com/ddomino007/WebConsole-electron-client/releases/latest)
 [![Build](https://img.shields.io/github/workflow/status/ddomino007/WebConsole-electron-client/Build?logo=github)](https://github.com/ddomino007/WebConsole-electron-client/actions/workflows/build.yml) [![Release](https://img.shields.io/github/workflow/status/ddomino007/WebConsole-electron-client/Release?logo=github)](https://github.com/ddomino007/WebConsole-electron-client/actions/workflows/publish.yml)
